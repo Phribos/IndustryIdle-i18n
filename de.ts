@@ -220,7 +220,7 @@ export const DE = {
     AutoSellConcurrencyDesc: "Maximale Anzahl der Ressourcen die gleichzeit automatisch verkauft werden können",
     MaxAutoSellConcurrencyReached:
         "Du hast die maximale automatische Verkaufsanzahl erreicht, schalte eine andere ab um diese zu aktivieren",
-    CannotSellBuilding: "Du kannst diese Gebäude zurzeit nicht verkaufen",
+    CannotSellBuilding: "Du kannst dieses Gebäude zurzeit nicht verkaufen",
     WallStreet: "Wall Street",
     MarketCap: "Markt Obergrenze",
     MarketCapDesc: "Gesamtkapital (i.e. Marktwert) deiner Organisation",
